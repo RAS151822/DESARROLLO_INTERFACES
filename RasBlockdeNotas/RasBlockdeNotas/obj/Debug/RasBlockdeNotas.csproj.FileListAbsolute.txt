@@ -1,0 +1,10 @@
+C:\Users\RASPUTIN\source\repos\RasBlockdeNotas\RasBlockdeNotas\bin\Debug\RasBlockdeNotas.exe.config
+C:\Users\RASPUTIN\source\repos\RasBlockdeNotas\RasBlockdeNotas\bin\Debug\RasBlockdeNotas.exe
+C:\Users\RASPUTIN\source\repos\RasBlockdeNotas\RasBlockdeNotas\bin\Debug\RasBlockdeNotas.pdb
+C:\Users\RASPUTIN\source\repos\RasBlockdeNotas\RasBlockdeNotas\obj\Debug\RasBlockdeNotas.csprojAssemblyReference.cache
+C:\Users\RASPUTIN\source\repos\RasBlockdeNotas\RasBlockdeNotas\obj\Debug\RasBlockdeNotas.Properties.Resources.resources
+C:\Users\RASPUTIN\source\repos\RasBlockdeNotas\RasBlockdeNotas\obj\Debug\RasBlockdeNotas.RasBlockdeNotas.resources
+C:\Users\RASPUTIN\source\repos\RasBlockdeNotas\RasBlockdeNotas\obj\Debug\RasBlockdeNotas.csproj.GenerateResource.cache
+C:\Users\RASPUTIN\source\repos\RasBlockdeNotas\RasBlockdeNotas\obj\Debug\RasBlockdeNotas.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\RasBlockdeNotas\RasBlockdeNotas\obj\Debug\RasBlockdeNotas.exe
+C:\Users\RASPUTIN\source\repos\RasBlockdeNotas\RasBlockdeNotas\obj\Debug\RasBlockdeNotas.pdb

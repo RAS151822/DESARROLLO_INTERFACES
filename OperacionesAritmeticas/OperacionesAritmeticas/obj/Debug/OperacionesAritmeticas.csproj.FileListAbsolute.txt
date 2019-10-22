@@ -1,0 +1,7 @@
+C:\Users\RASPUTIN\source\repos\OperacionesAritmeticas\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.exe.config
+C:\Users\RASPUTIN\source\repos\OperacionesAritmeticas\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.exe
+C:\Users\RASPUTIN\source\repos\OperacionesAritmeticas\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Users\RASPUTIN\source\repos\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csprojAssemblyReference.cache
+C:\Users\RASPUTIN\source\repos\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.exe
+C:\Users\RASPUTIN\source\repos\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.pdb
