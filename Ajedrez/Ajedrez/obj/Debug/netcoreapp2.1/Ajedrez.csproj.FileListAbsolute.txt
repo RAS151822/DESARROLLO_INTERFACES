@@ -1,0 +1,11 @@
+C:\Users\RASPUTIN\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.csprojAssemblyReference.cache
+C:\Users\RASPUTIN\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.AssemblyInfoInputs.cache
+C:\Users\RASPUTIN\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.AssemblyInfo.cs
+C:\Users\RASPUTIN\source\repos\Ajedrez\Ajedrez\bin\Debug\netcoreapp2.1\Ajedrez.deps.json
+C:\Users\RASPUTIN\source\repos\Ajedrez\Ajedrez\bin\Debug\netcoreapp2.1\Ajedrez.runtimeconfig.json
+C:\Users\RASPUTIN\source\repos\Ajedrez\Ajedrez\bin\Debug\netcoreapp2.1\Ajedrez.runtimeconfig.dev.json
+C:\Users\RASPUTIN\source\repos\Ajedrez\Ajedrez\bin\Debug\netcoreapp2.1\Ajedrez.dll
+C:\Users\RASPUTIN\source\repos\Ajedrez\Ajedrez\bin\Debug\netcoreapp2.1\Ajedrez.pdb
+C:\Users\RASPUTIN\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.dll
+C:\Users\RASPUTIN\source\repos\Ajedrez\Ajedrez\obj\Debug\netcoreapp2.1\Ajedrez.pdb

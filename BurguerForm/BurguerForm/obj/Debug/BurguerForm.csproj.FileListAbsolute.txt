@@ -1,0 +1,12 @@
+C:\Users\RASPUTIN\source\repos\BurguerForm\BurguerForm\bin\Debug\BurguerForm.exe.config
+C:\Users\RASPUTIN\source\repos\BurguerForm\BurguerForm\bin\Debug\BurguerForm.exe
+C:\Users\RASPUTIN\source\repos\BurguerForm\BurguerForm\bin\Debug\BurguerForm.pdb
+C:\Users\RASPUTIN\source\repos\BurguerForm\BurguerForm\obj\Debug\BurguerForm.csprojAssemblyReference.cache
+C:\Users\RASPUTIN\source\repos\BurguerForm\BurguerForm\obj\Debug\BurguerForm.Form1.resources
+C:\Users\RASPUTIN\source\repos\BurguerForm\BurguerForm\obj\Debug\BurguerForm.Properties.Resources.resources
+C:\Users\RASPUTIN\source\repos\BurguerForm\BurguerForm\obj\Debug\BurguerForm.csproj.GenerateResource.cache
+C:\Users\RASPUTIN\source\repos\BurguerForm\BurguerForm\obj\Debug\BurguerForm.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\BurguerForm\BurguerForm\obj\Debug\BurguerForm.exe
+C:\Users\RASPUTIN\source\repos\BurguerForm\BurguerForm\obj\Debug\BurguerForm.pdb
+C:\Users\RASPUTIN\source\repos\BurguerForm\BurguerForm\obj\Debug\BurguerForm.FirstCustomControl.resources
+C:\Users\RASPUTIN\source\repos\BurguerForm\BurguerForm\obj\Debug\BurguerForm.MySecondCustomControl.resources

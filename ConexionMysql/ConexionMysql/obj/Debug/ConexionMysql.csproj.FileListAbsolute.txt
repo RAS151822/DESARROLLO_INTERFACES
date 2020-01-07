@@ -1,0 +1,16 @@
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\bin\Debug\ConexionMysql.exe.config
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\bin\Debug\ConexionMysql.exe
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\bin\Debug\ConexionMysql.pdb
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\bin\Debug\MySql.Data.dll
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\bin\Debug\Google.Protobuf.dll
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\bin\Debug\Renci.SshNet.dll
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\bin\Debug\MySql.Data.xml
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\obj\Debug\ConexionMysql.csprojAssemblyReference.cache
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\obj\Debug\ConexionMysql.Form1.resources
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\obj\Debug\ConexionMysql.Properties.Resources.resources
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\obj\Debug\ConexionMysql.csproj.GenerateResource.cache
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\obj\Debug\ConexionMysql.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\obj\Debug\ConexionMysql.csproj.CopyComplete
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\obj\Debug\ConexionMysql.exe
+C:\Users\RASPUTIN\source\repos\ConexionMysql\ConexionMysql\obj\Debug\ConexionMysql.pdb

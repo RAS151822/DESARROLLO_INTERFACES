@@ -1,0 +1,10 @@
+C:\Users\RASPUTIN\source\repos\Loguearse\Loguearse\bin\Debug\Loguearse.exe.config
+C:\Users\RASPUTIN\source\repos\Loguearse\Loguearse\bin\Debug\Loguearse.exe
+C:\Users\RASPUTIN\source\repos\Loguearse\Loguearse\bin\Debug\Loguearse.pdb
+C:\Users\RASPUTIN\source\repos\Loguearse\Loguearse\obj\Debug\Loguearse.csprojAssemblyReference.cache
+C:\Users\RASPUTIN\source\repos\Loguearse\Loguearse\obj\Debug\Loguearse.Form1.resources
+C:\Users\RASPUTIN\source\repos\Loguearse\Loguearse\obj\Debug\Loguearse.Properties.Resources.resources
+C:\Users\RASPUTIN\source\repos\Loguearse\Loguearse\obj\Debug\Loguearse.csproj.GenerateResource.cache
+C:\Users\RASPUTIN\source\repos\Loguearse\Loguearse\obj\Debug\Loguearse.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\Loguearse\Loguearse\obj\Debug\Loguearse.exe
+C:\Users\RASPUTIN\source\repos\Loguearse\Loguearse\obj\Debug\Loguearse.pdb

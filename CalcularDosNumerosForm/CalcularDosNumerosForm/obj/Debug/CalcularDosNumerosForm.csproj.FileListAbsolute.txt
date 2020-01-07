@@ -1,0 +1,10 @@
+C:\Users\RASPUTIN\source\repos\CalcularDosNumerosForm\CalcularDosNumerosForm\bin\Debug\CalcularDosNumerosForm.exe.config
+C:\Users\RASPUTIN\source\repos\CalcularDosNumerosForm\CalcularDosNumerosForm\bin\Debug\CalcularDosNumerosForm.exe
+C:\Users\RASPUTIN\source\repos\CalcularDosNumerosForm\CalcularDosNumerosForm\bin\Debug\CalcularDosNumerosForm.pdb
+C:\Users\RASPUTIN\source\repos\CalcularDosNumerosForm\CalcularDosNumerosForm\obj\Debug\CalcularDosNumerosForm.csprojAssemblyReference.cache
+C:\Users\RASPUTIN\source\repos\CalcularDosNumerosForm\CalcularDosNumerosForm\obj\Debug\CalcularDosNumerosForm.Form1.resources
+C:\Users\RASPUTIN\source\repos\CalcularDosNumerosForm\CalcularDosNumerosForm\obj\Debug\CalcularDosNumerosForm.Properties.Resources.resources
+C:\Users\RASPUTIN\source\repos\CalcularDosNumerosForm\CalcularDosNumerosForm\obj\Debug\CalcularDosNumerosForm.csproj.GenerateResource.cache
+C:\Users\RASPUTIN\source\repos\CalcularDosNumerosForm\CalcularDosNumerosForm\obj\Debug\CalcularDosNumerosForm.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\CalcularDosNumerosForm\CalcularDosNumerosForm\obj\Debug\CalcularDosNumerosForm.exe
+C:\Users\RASPUTIN\source\repos\CalcularDosNumerosForm\CalcularDosNumerosForm\obj\Debug\CalcularDosNumerosForm.pdb

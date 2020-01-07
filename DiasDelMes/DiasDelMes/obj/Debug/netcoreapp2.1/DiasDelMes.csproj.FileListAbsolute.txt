@@ -1,0 +1,11 @@
+C:\Users\RASPUTIN\source\repos\DiasDelMes\DiasDelMes\obj\Debug\netcoreapp2.1\DiasDelMes.csprojAssemblyReference.cache
+C:\Users\RASPUTIN\source\repos\DiasDelMes\DiasDelMes\obj\Debug\netcoreapp2.1\DiasDelMes.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\DiasDelMes\DiasDelMes\obj\Debug\netcoreapp2.1\DiasDelMes.AssemblyInfoInputs.cache
+C:\Users\RASPUTIN\source\repos\DiasDelMes\DiasDelMes\obj\Debug\netcoreapp2.1\DiasDelMes.AssemblyInfo.cs
+C:\Users\RASPUTIN\source\repos\DiasDelMes\DiasDelMes\bin\Debug\netcoreapp2.1\DiasDelMes.deps.json
+C:\Users\RASPUTIN\source\repos\DiasDelMes\DiasDelMes\bin\Debug\netcoreapp2.1\DiasDelMes.runtimeconfig.json
+C:\Users\RASPUTIN\source\repos\DiasDelMes\DiasDelMes\bin\Debug\netcoreapp2.1\DiasDelMes.runtimeconfig.dev.json
+C:\Users\RASPUTIN\source\repos\DiasDelMes\DiasDelMes\bin\Debug\netcoreapp2.1\DiasDelMes.dll
+C:\Users\RASPUTIN\source\repos\DiasDelMes\DiasDelMes\bin\Debug\netcoreapp2.1\DiasDelMes.pdb
+C:\Users\RASPUTIN\source\repos\DiasDelMes\DiasDelMes\obj\Debug\netcoreapp2.1\DiasDelMes.dll
+C:\Users\RASPUTIN\source\repos\DiasDelMes\DiasDelMes\obj\Debug\netcoreapp2.1\DiasDelMes.pdb

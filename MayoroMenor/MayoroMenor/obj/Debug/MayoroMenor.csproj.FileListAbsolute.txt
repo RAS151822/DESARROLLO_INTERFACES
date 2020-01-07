@@ -1,0 +1,6 @@
+C:\Users\RASPUTIN\source\repos\MayoroMenor\MayoroMenor\bin\Debug\MayoroMenor.exe.config
+C:\Users\RASPUTIN\source\repos\MayoroMenor\MayoroMenor\bin\Debug\MayoroMenor.exe
+C:\Users\RASPUTIN\source\repos\MayoroMenor\MayoroMenor\bin\Debug\MayoroMenor.pdb
+C:\Users\RASPUTIN\source\repos\MayoroMenor\MayoroMenor\obj\Debug\MayoroMenor.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\MayoroMenor\MayoroMenor\obj\Debug\MayoroMenor.exe
+C:\Users\RASPUTIN\source\repos\MayoroMenor\MayoroMenor\obj\Debug\MayoroMenor.pdb

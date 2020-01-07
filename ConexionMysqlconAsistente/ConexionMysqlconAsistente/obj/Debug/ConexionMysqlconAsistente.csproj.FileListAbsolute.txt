@@ -1,0 +1,11 @@
+C:\Users\RASPUTIN\source\repos\ConexionMysqlconAsistente\ConexionMysqlconAsistente\bin\Debug\Tlfn.mdb.accdb
+C:\Users\RASPUTIN\source\repos\ConexionMysqlconAsistente\ConexionMysqlconAsistente\bin\Debug\ConexionMysqlconAsistente.exe.config
+C:\Users\RASPUTIN\source\repos\ConexionMysqlconAsistente\ConexionMysqlconAsistente\bin\Debug\ConexionMysqlconAsistente.exe
+C:\Users\RASPUTIN\source\repos\ConexionMysqlconAsistente\ConexionMysqlconAsistente\bin\Debug\ConexionMysqlconAsistente.pdb
+C:\Users\RASPUTIN\source\repos\ConexionMysqlconAsistente\ConexionMysqlconAsistente\obj\Debug\ConexionMysqlconAsistente.csprojAssemblyReference.cache
+C:\Users\RASPUTIN\source\repos\ConexionMysqlconAsistente\ConexionMysqlconAsistente\obj\Debug\ConexionMysqlconAsistente.Form1.resources
+C:\Users\RASPUTIN\source\repos\ConexionMysqlconAsistente\ConexionMysqlconAsistente\obj\Debug\ConexionMysqlconAsistente.Properties.Resources.resources
+C:\Users\RASPUTIN\source\repos\ConexionMysqlconAsistente\ConexionMysqlconAsistente\obj\Debug\ConexionMysqlconAsistente.csproj.GenerateResource.cache
+C:\Users\RASPUTIN\source\repos\ConexionMysqlconAsistente\ConexionMysqlconAsistente\obj\Debug\ConexionMysqlconAsistente.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\ConexionMysqlconAsistente\ConexionMysqlconAsistente\obj\Debug\ConexionMysqlconAsistente.exe
+C:\Users\RASPUTIN\source\repos\ConexionMysqlconAsistente\ConexionMysqlconAsistente\obj\Debug\ConexionMysqlconAsistente.pdb

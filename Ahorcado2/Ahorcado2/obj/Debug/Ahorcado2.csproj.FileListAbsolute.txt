@@ -1,0 +1,11 @@
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.Form1.resources
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.Form2.resources
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.Properties.Resources.resources
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.csproj.GenerateResource.cache
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\bin\Debug\Ahorcado2.exe.config
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\bin\Debug\Ahorcado2.exe
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\bin\Debug\Ahorcado2.pdb
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.exe
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.pdb
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.csprojAssemblyReference.cache

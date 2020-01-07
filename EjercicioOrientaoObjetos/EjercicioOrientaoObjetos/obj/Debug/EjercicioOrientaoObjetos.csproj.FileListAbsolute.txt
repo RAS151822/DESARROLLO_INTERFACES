@@ -1,0 +1,7 @@
+C:\Users\RASPUTIN\source\repos\EjercicioOrientaoObjetos\EjercicioOrientaoObjetos\obj\Debug\EjercicioOrientaoObjetos.csprojAssemblyReference.cache
+C:\Users\RASPUTIN\source\repos\EjercicioOrientaoObjetos\EjercicioOrientaoObjetos\obj\Debug\EjercicioOrientaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\EjercicioOrientaoObjetos\EjercicioOrientaoObjetos\bin\Debug\EjercicioOrientaoObjetos.exe.config
+C:\Users\RASPUTIN\source\repos\EjercicioOrientaoObjetos\EjercicioOrientaoObjetos\bin\Debug\EjercicioOrientaoObjetos.exe
+C:\Users\RASPUTIN\source\repos\EjercicioOrientaoObjetos\EjercicioOrientaoObjetos\bin\Debug\EjercicioOrientaoObjetos.pdb
+C:\Users\RASPUTIN\source\repos\EjercicioOrientaoObjetos\EjercicioOrientaoObjetos\obj\Debug\EjercicioOrientaoObjetos.exe
+C:\Users\RASPUTIN\source\repos\EjercicioOrientaoObjetos\EjercicioOrientaoObjetos\obj\Debug\EjercicioOrientaoObjetos.pdb
